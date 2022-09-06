@@ -34,6 +34,5 @@ FF0101
 ![Captura de pantalla 2022-09-06 143231](https://user-images.githubusercontent.com/111294168/188702142-61e99822-1b73-456c-9ed2-3a3acaeb3acd.png)
 
 ## Creación de logo
-
-![PARTIDO MAS LARGO](https://user-images.githubusercontent.com/111294168/184709705-c2b1f143-c88b-4ccc-b8c5-2313a60951d2.png)
+![Captura de pantalla 2022-09-06 143631](https://user-images.githubusercontent.com/111294168/188702594-575e6f01-a7c1-4e76-92a1-76b20d38b74a.png)
 
