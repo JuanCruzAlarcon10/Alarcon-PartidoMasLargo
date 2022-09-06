@@ -28,10 +28,10 @@ Es un evento para todas las edades
 Merriweather (https://fonts.google.com/specimen/Merriweather?sort=popularity)
 
 ## Paleta de colores 
-1F363D
-40798C
-9EC1A3
-![Captura de pantalla 2022-08-15 163637](https://user-images.githubusercontent.com/111294168/184709217-8d6b9b9a-76ca-4e6d-91c2-ee45b772f3dc.png)
+FF8181
+FFCBCB
+FF0101
+![Captura de pantalla 2022-09-06 143231](https://user-images.githubusercontent.com/111294168/188702142-61e99822-1b73-456c-9ed2-3a3acaeb3acd.png)
 
 ## Creación de logo
 
